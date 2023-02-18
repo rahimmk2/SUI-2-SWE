@@ -1,0 +1,7 @@
+build/
+test
+.obj
+*.o
+*.d
+.DS_Store
+.vscode
